@@ -1,0 +1,8 @@
+*.png filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.crd filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.dmg filter=lfs diff=lfs merge=lfs -text
+*.dxf filter=lfs diff=lfs merge=lfs -text
+*.dng filter=lfs diff=lfs merge=lfs -text
+*.cdr filter=lfs diff=lfs merge=lfs -text
